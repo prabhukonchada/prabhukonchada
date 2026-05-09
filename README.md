@@ -1,6 +1,6 @@
 # Hey, I'm Prabhu Konchada
 
-**Head of Product | 10-Year B2B SaaS PM | Co-Founder**
+**Head of Product**
 
 Partnered with the CEO to scale [Apxor](https://www.apxor.com) Nudges — a no-code mobile SDK for behavior-triggered in-app engagement and surveys — from **idea to $5M ARR** and from **0 to 60 employees**.
 
